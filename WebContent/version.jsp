@@ -1,1 +1,1 @@
-ePADD version Release 7 beta-3 (Dec 8, 2018)
+sampleapp version Release 1.0 (23 Jan 2019)
